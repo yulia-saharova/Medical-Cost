@@ -1,0 +1,10 @@
+# Файлы конфигурации для venv
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+__pycache__/
+*.pyc
+*.log
